@@ -1,0 +1,28 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 3,
+      "last_login": null,
+      "is_superuser": false,
+      "password": null,
+      "phone_number": "+998941180832",
+      "first_name": "Allashukur",
+      "last_name": "Allaberganov",
+      "date_joined": "2023-02-17T22:46:44.975324+05:00",
+      "passport_image": null,
+      "passport_image_path": "AgACAgIAAxkBAAIGPWPvvYR870qdCm37x9o7F_1lqhDOAAKqxTEbv1yBS61fD1_KRh0MAQADAgADeQADLgQ",
+      "is_active": true,
+      "is_staff": true,
+      "date_of_birth": null,
+      "role": "agent",
+      "is_deleted": false,
+      "is_member": true,
+      "district": 14,
+      "groups": [],
+      "user_permissions": []
+    }
+  ]
+}
